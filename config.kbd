@@ -15,14 +15,14 @@
   lctl fn lmet lalt      spc    ralt cmp  rctl                           left down rght   kp0  kp.
 )
 
-;; (deflayer base
-;;   _    _    _    _    _    _    _    _    _    _    _    _    _          _    _    _
-;;   _    _    _    _    _    _    _    _    _    _    _    _    _    _     _    _    _     _    _    _    _
-;;   @tab_navigation  _    _    _    _    _    _    _    _    _    _    _   _    _    _     _    _    _    _    _    _
-;;   esc _    _    _    _    _    _    _    _    _    _    _    _                _  _  _
-;;   _    _    _    _    _    _    _    _    _    _    _    _                    _          _    _    _    _
-;;   _    _    _            _            _ cmp cmp  _                       _    _    _     _    _
-;; )
+ (deflayer base
+   _    _    _    _    _    _    _    _    _    _    _    _    _          _    _    _
+   _    _    _    _    _    _    _    _    _    _    _    _    _    _     _    _    _     _    _    _    _
+   @tab_navigation  _    _    _    _    _    _    _    _    _    _    _   _    _    _     _    _    _    _    _    _
+   esc _    _    _    _    _    _    _    _    _    _    _    _                _  _  _
+   _    _    _    _    _    _    _    _    _    _    _    _                    _          _    _    _    _
+   _    _    _            _            _ cmp cmp  _                       _    _    _     _    _
+ )
 
 ;; (deflayer navigation
 ;;   _    _    _    _    _    _    _    _    _    _    _    _    _          _    _    _
