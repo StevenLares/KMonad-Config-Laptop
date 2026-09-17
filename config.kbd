@@ -33,7 +33,7 @@
  )
 
 
-;; (defalias
-;;   tab_navigation (tap-hold-next-release 200 tab (layer-toggle navigation))
-;; )
+ (defalias
+   tab_navigation (tap-hold-next-release 200 tab (layer-toggle navigation))
+ )
 
