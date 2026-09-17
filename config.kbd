@@ -5,7 +5,6 @@
   allow-cmd false
 )
 
-;; TODO: Experiment with this, make sure this works first
 (defsrc
   esc  f1   f2   f3   f4   f5   f6   f7   f8   f9   f10  f11  f12  ssrq pause del home pgup pgdn end power
   grv  1    2    3    4    5    6    7    8    9    0    -    =                 bspc   nlck kp/  kp*  kp-
